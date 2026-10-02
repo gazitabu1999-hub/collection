@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm [Tabassum] 👋
 
-<!--
-**gazitabu1999-hub/gazitabu1999-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Associate Consultant with a strong foundation in data analytics — building dashboards and data models in Excel, Power BI, and Infor Birst to turn raw data into business insight.
 
-Here are some ideas to get you started:
+## 📊 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[Online Retail Analytics Dashboard](https://github.com/gazitabu1999-hub/online-retail-power-bi-dashboard)** — Power BI
+Customer segmentation (RFM), sales analysis, and returns tracking on 536K+ transactions.
+
+**[Coffee Shop Sales Dashboard](https://github.com/gazitabu1999-hub/Coffee-Shop-Sales-Dashboard)** — Excel
+
+**[Infor Birst Practice](https://github.com/gazitabu1999-hub/Infor-birst-practice)** — Infor Birst
+Data modeling, dashboards, and pixel-perfect reporting.
