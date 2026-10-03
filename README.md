@@ -9,5 +9,5 @@ Customer segmentation (RFM), sales analysis, and returns tracking on 536K+ trans
 
 **[Coffee Shop Sales Dashboard](https://github.com/gazitabu1999-hub/Coffee-Shop-Sales-Dashboard)** — Excel
 
-**[Infor Birst Practice](https://github.com/gazitabu1999-hub/Infor-birst-practice)** — Infor Birst
+**[Infor Birst Sample Work](https://github.com/gazitabu1999-hub/Infor-birst-Sample-Work)** — Infor Birst
 Data modeling, dashboards, and pixel-perfect reporting.
